@@ -1,4 +1,7 @@
-# project2
+##  A Simple Implementation of Bottom Navigation Bar 
+
+![image](https://user-images.githubusercontent.com/59283222/129621342-adc85e1c-6e5b-45b7-a9f8-e3a86f602a71.png)
+
 
 A new Flutter project.
 
